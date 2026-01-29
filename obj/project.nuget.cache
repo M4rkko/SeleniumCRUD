@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJ3uWJcZ+rs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Markk\\Desktop\\SeleniumCRUD-Testing\\SeleniumCRUD-Testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Markk\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Markk\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\Markk\\.nuget\\packages\\selenium.webdriver\\4.40.0\\selenium.webdriver.4.40.0.nupkg.sha512"
+  ],
+  "logs": []
+}
