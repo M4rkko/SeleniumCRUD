@@ -19,3 +19,4 @@ C:\Users\Markk\Desktop\SeleniumCRUD-Testing\obj\Debug\net8.0\refint\SeleniumCRUD
 C:\Users\Markk\Desktop\SeleniumCRUD-Testing\obj\Debug\net8.0\SeleniumCRUD-Testing.pdb
 C:\Users\Markk\Desktop\SeleniumCRUD-Testing\obj\Debug\net8.0\SeleniumCRUD-Testing.genruntimeconfig.cache
 C:\Users\Markk\Desktop\SeleniumCRUD-Testing\obj\Debug\net8.0\ref\SeleniumCRUD-Testing.dll
+C:\Users\Markk\Desktop\SeleniumCRUD-Testing\obj\Debug\net8.0\SeleniumCRUD-Testing.sourcelink.json
